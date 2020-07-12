@@ -1,0 +1,43 @@
+
+body {
+   /* background-color: black; */
+   background: url('images/1.jpg');
+   background-size: cover;
+}
+
+p {
+	color: white;
+	text-decoration: underline;
+	width: 100px;
+}
+
+a {
+	color: purple;
+}
+
+#front_head {
+	color: black;
+	font-family: cursive;
+}
+
+input {
+	height: 20px;
+}
+
+#open_the_door {
+	position: absolute;
+	top: 20px;
+	right: 20px;
+}
+
+.login {
+	overflow: scroll;
+	height: 20px;
+	width: 200px;
+	background: #fc3;
+}
+
+.login:focus {
+	background-color: white;
+}
+
